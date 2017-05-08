@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">"FireMovie"</string>
+
+    <string name="action_settings">Configuration</string>
+    <string name="action_search">Search</string>
+
+
+    <string name="item_inicio">Home</string>
+
+    <string name="item_categorias">Categories</string>
+    <string name="item_configuracion">Configuration</string>
+    <string name="item_search">Search</string>
+    <string name="item_contact">Help and FAQs</string>
+
+    <string name="titulo_comidas_populares">More demanded</string>
+
+    <string name="item_contact1">\nDenominació de l\'Empresa\n</string>
+    <string name="item_contact2">Contacte de l\'empresa\n\n</string>
+
+    <string name="titulo_tab_platillos">PLATILLOS</string>
+    <string name="titulo_tab_bebidas">BEBIDAS</string>
+    <string name="titulo_tab_postres">POSTRES</string>
+
+    <string name="titulo_tab_perfil">PERFIL</string>
+    <string name="titulo_tab_direcciones">DIRECCIONES</string>
+    <string name="titulo_tab_tarjetas">TARJETAS</string>
+
+    <string name="mv">More Rated</string>
+    <string name="mp">More Popular</string>
+    <string name="oa">Now Playing</string>
+    <string name="tr">Top Rated</string>
+    <string name="tp">TV Popular</string>
+    <string name="tvoa">TV On Air</string>
+    <string name="ser">TV</string>
+    <string name="pel">Films</string>
+
+    <string name="movies">Movies</string>
+    <string name="serie">TV</string>
+
+    <string name="texto_no_tarjetas">No tienes ninguna tarjeta asociada</string>
+
+    <string name="etiqueta_carrito">Carrito</string>
+
+    <string name="texto_cambiar_contrasena">Change password</string>
+    <string name="etiqueta_contrasena">Password</string>
+    <string name="etiqueta_info_usuario">User Information</string>
+
+    <string name="player_error">Error initializing YouTube player: %s</string>
+    <string name="seek_to">Jump To</string>
+    <string name="seek_to_hint">Seconds</string>
+    <string name="menu_configuration">Configuracion</string>
+    <string name="forum">Forum</string>
+    <string name="menu_lang">Language</string>
+
+    <string name="profileTitle">Perfil Profesional</string>
+
+    <string name="action_clear">Limpiar Perfil</string>
+
+    <string name="nombre">Nombre:</string>
+    <string name="apellido">Apellidos:</string>
+    <string name="email">Email:</string>
+    <string name="cargo">Cargo:</string>
+    <string name="guardar">Guardar</string>
+    <string name="msg_save">Perfil profesional guardado correctamente</string>
+
+    <string name="preference_file_key">preference_file_key</string>
+    <string name="nombre_key">nombreKey</string>
+    <string name="apellido_key">apellidoKey</string>
+    <string name="email_key">emailKey</string>
+    <string name="cargo_key">cargoKey</string>
+
+
+    <string name="wifire">1.What is FireMovie?</string>
+    <string name="wifire2">FireMovie is an App where you \ncan  find your favorite Movies and Series, you can search for both Movies and Series and you can \nsave them in your Favorites area</string>
+    <string name="pay">2.FireMovie Is It Paid?</string>
+    <string name="pay1">No, FireMovie you do not need to pay to use the App</string>
+    <string name="ep">3.How can I delete advertising?</string>
+    <string name="ep1">Now, FireMovie does not have an advertising service, so any user can enjoy the services without any publicity</string>
+    <string name="err">4.The application does not work correctly, what do I do?</string>
+    <string name="ee1">Get in touch on us, you can go to Help and FAQs > Contact support, there we formulated the error you have or you can write an email to firemovieapp@gmail.com</string>
+    <string name="next">Next events</string>
+    <string name="hello">Hello World, TareasSQLiteActivity!</string>
+    <string name="menu_insert">Agregar tarea</string>
+    <string name="menu_delete">Borrar</string>
+    <string name="todo_summary">Nombre</string>
+    <string name="todo_description">Borrar</string>
+    <string name="todo_edit_summary">Nombre</string>
+    <string name="todo_edit_description">Descripción</string>
+    <string name="todo_edit_confirm">Aceptar</string>
+    <string name="no_todos">Aún no existen elementos en la lista.</string>
+    <color name="listcolor">#94A65D</color>
+    <color name="black">#000000</color>
+
+</resources>
