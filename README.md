@@ -20,8 +20,14 @@ En la seccion de Inicio puedes encontrar los proximos estrenos en peliculas, se 
 ## List+Details, Datos de Api - Sergio Martinez
 
 # SearchFilm
+En la opcion de  SearchFilm te permite buscar peliculas, se visualiza una lista en la cual cada elemento te permite previsualizar el icono, el titulo, la puntuacion media, el total de votos y la fecha de estreno, donde al hacer click en cualquiera de las peliculas, se redigira hacia una nueva actividad que detallara informacion sobre la pelicula.
+
+## List+Details, Datos de Api - Oscar Segui
 
 # SearchTV
+En la opcion de  SearchFilm te permite buscar series, se visualiza una lista en la cual cada elemento te permite previsualizar el icono, el titulo, la puntuacion media, el total de votos y la fecha de su primera emision , donde al hacer click en cualquiera de las series, se redigira hacia una nueva actividad que detallara informacion sobre la series.
+
+## List+Details, Datos de Api - Oscar Segui
 
 # Peliculas
 
@@ -43,10 +49,19 @@ Seccion donde el usuario puede encontrar las secciones de las series mas valorad
 
 
 # Favorites
+En esta opcion podras visualizar todas las series que has añadido a favoritos, tiene dos seciones una para las peliculas y otra para las series.
+
+## List+Details, Datos de Api, Singleton, Opcion de añadir en las vistas - Oscar Segui
 
 # Visto
+En esta opcion podras visualizar todas las series que has añadido a visto, tiene dos seciones una para las peliculas y otra para las series.
+
+## List+Details, Datos de Api, Singleton, Opcion de añadir en las vistas - Oscar Segui
 
 # Pendientes
+En esta opcion podras visualizar todas las series que has añadido a pendientes, tiene dos seciones una para las peliculas y otra para las series.
+
+## List+Details, Datos de Api, Singleton, Opcion de añadir en las vistas - Oscar Segui
 
 # Forum
 
