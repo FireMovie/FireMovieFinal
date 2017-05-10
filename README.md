@@ -202,5 +202,6 @@ https://developers.themoviedb.org/3
 https://developers.themoviedb.org/3/search
 https://developers.themoviedb.org/3/tv
 https://developers.themoviedb.org/3/movies
+https://developers.themoviedb.org/3/movies/get-upcoming
 
 # Este ha sido un proyecto realizado por los alumnos de 1DAW de IES L'estació: Sergio Martinez y Oscar Segui
