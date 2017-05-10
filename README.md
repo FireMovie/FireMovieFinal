@@ -13,6 +13,7 @@ A continuación se detallaran las distintas secciones de la aplicación.
 # Inicio
 En la seccion de Inicio puedes encontrar los proximos estrenos en peliculas, se visualiza en una lista, donde al hacer click en cualquiera de las peliculas, se redigira hacia una nueva actividad que detallara informacion sobre la pelicula.
 Entre la información que se obtiene en la vista individual de cada pelicula se encuentran:
+
 + Imagen de la pelicula
 + Valoracion por TMDb
 + Y la información mas importante, la fecha de entreno
@@ -35,7 +36,13 @@ En la opcion de  SearchFilm te permite buscar series, se visualiza una lista en 
 
 # Peliculas
 
-Seccion donde el usuario puede encontrar las secciones de las peliculas mas valoradas, mas populares y las que estan en cartelera, entre la informacion que puedes encontrar en el list se detalla, el nombre de la pelicula y su valoracion
+Seccion donde el usuario puede encontrar las secciones de las peliculas:
+1. Mas valoradas
+2. Mas populares 
+3. En cartelera
+Entre la informacion que puedes encontrar en el list se detalla:
++ El nombre de la pelicula 
++ Valoracion de la pelicula
 <p align="center">
   <img src="https://lh3.googleusercontent.com/-lhzC87AWMRk/WRCVzbU_WTI/AAAAAAAAAQQ/vOsf2r--jfUpHdsrScXR5mfvCLwOMCMVgCJoC/w180-h320-p-rw/17%2B-%2B1" width="150"/>
 </p>
@@ -44,7 +51,13 @@ Seccion donde el usuario puede encontrar las secciones de las peliculas mas valo
 
 # Series
 
-Seccion donde el usuario puede encontrar las secciones de las series mas valoradas, populares en TV y las que estan emitiendose, entre la informacion que puedes encontrar en el list se detalla, el nombre de la pelicula y su valoracion
+Seccion donde el usuario puede encontrar las secciones:
+1. Series mas valoradas
+2. Populares en TV 
+3. Emitiendose
+Entre la informacion que puedes encontrar en el list se detalla:
++ Nombre de la serie 
++ Valoracion
 <p align="center">
   <img src="https://lh3.googleusercontent.com/-Ryb7pHeOpKI/WRCWY4gTGJI/AAAAAAAAAQo/k4TRQzPNtu4a2AryXbgUje6clUucfaqdACL0B/w180-d-h320-p-rw/17%2B-%2B1" width="150"/>
 </p>
