@@ -55,17 +55,17 @@ Seccion donde el usuario puede encontrar las secciones de las series mas valorad
 # Favorites
 En esta opcion podras visualizar todas las series que has añadido a favoritos, tiene dos seciones una para las peliculas y otra para las series.
 
-## List,Details reutilizado de Details General, Datos de Api, Singleton, Opcion de añadir en las vistas - Oscar Segui
+## List,Details(General), Datos de Api, Singleton, Opcion de añadir en las vistas - Oscar Segui
 
 # Visto
 En esta opcion podras visualizar todas las series que has añadido a visto, tiene dos seciones una para las peliculas y otra para las series.
 
-## List,Details reutilizado de Details General, Datos de Api, Singleton, Opcion de añadir en las vistas - Oscar Segui
+## List,Details(General), Datos de Api, Singleton, Opcion de añadir en las vistas - Oscar Segui
 
 # Pendientes
 En esta opcion podras visualizar todas las series que has añadido a pendientes, tiene dos seciones una para las peliculas y otra para las series.
 
-## List,Details reutilizado de Details General, Datos de Api, Singleton, Opcion de añadir en las vistas - Oscar Segui
+## List,Details(General), Datos de Api, Singleton, Opcion de añadir en las vistas - Oscar Segui
 
 # Forum
 
